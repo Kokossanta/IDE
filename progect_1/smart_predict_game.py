@@ -4,7 +4,7 @@ def predict_num(number, min_num=1, max_num=100):
     """Угадываем число
 
     Args:
-        number (int, optional): Загаданное число. Defaults to 1.
+        number (int, optional): Загаданное число. 
         min_num (int): Минимум диапазона загадонного числа. Defaults to 1.
         max_num (int): Максимум диапазона загадонного числа. Defaults to 100.
 
